@@ -21,6 +21,9 @@ body::before {
 body {
   font-family: 'Satisfy', cursive;
 }
+h1, h2, .ramo, .semestre {
+  font-family: 'Satisfy', cursive;
+}
 
 h1 {
   text-align: center;
