@@ -43,7 +43,7 @@ h1 {
   transition: 0.3s;
 }
 .ramo.aprobado {
-  background-color: #f5f5dc; /* burdeo claro */
+  background-color: #d9d99b; /* burdeo claro */
   text-decoration: line-through;
   color: white;
 }
