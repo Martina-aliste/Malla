@@ -18,6 +18,9 @@ body::before {
   background: rgba(255, 255, 255, 0.4); /* filtro blanco suave */
   z-index: -1;
 }
+body {
+  font-family: 'Satisfy', cursive;
+}
 
 h1 {
   text-align: center;
